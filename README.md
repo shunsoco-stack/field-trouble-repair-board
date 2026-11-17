@@ -46,6 +46,10 @@ https://field-trouble-repair-board.vercel.app
 | 復旧確認 | [04-recovery-check.png](docs/screenshots/04-recovery-check.png) |
 | 再発一覧 | [05-recurrence.png](docs/screenshots/05-recurrence.png) |
 
+04はスマホ幅（390px）、それ以外はデスクトップ幅（1440px）で、公開URLを撮影しています。
+
+![進捗ボード](docs/screenshots/01-board.png)
+
 ## ローカル起動方法
 
 Node.js 20.9以上を利用してください（検証環境：Node.js 24）。
